@@ -27,7 +27,9 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
-    # No working-directory needed; everything is in the root
+    defaults:
+      run:
+        working-directory: app
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -36,6 +38,7 @@ jobs:
         with:
           node-version: "20"
           cache: npm
+          cache-dependency-path: app/package-lock.json
       - name: Install dependencies
         run: npm ci
       - name: Build and Export Next.js
@@ -45,7 +48,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: out
+          path: app/out
 
   # Deployment job
   deploy:
