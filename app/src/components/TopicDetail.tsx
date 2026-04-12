@@ -97,7 +97,7 @@ export default function TopicDetail({
               <div key={i} className="flex flex-col items-center">
                 <div className="rounded-xl overflow-hidden border border-gray-200 dark:border-gray-700 bg-white dark:bg-gray-800/50 w-full">
                   <img
-                    src={img.src}
+                    src={`${basePath}${img.src}`}
                     alt={img.alt[lang]}
                     className="w-full h-48 object-cover"
                   />
@@ -137,7 +137,7 @@ export default function TopicDetail({
                         <div className="flex items-center gap-3">
                           {row.image && (
                             <img
-                              src={row.image}
+                              src={`${basePath}${row.image}`}
                               alt={row.value[lang]}
                               className="w-20 h-20 rounded-lg object-cover flex-shrink-0 border border-gray-200 dark:border-gray-600 shadow-sm"
                             />
