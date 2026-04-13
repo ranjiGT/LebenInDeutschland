@@ -8,6 +8,7 @@ export interface Question {
   image?: string;
   explanation?: { de: string; en: string };
   hideOptionLabels?: boolean;
+  showImageLabels?: boolean;
 }
 
 export interface QuestionsData {
