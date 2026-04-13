@@ -1239,14 +1239,14 @@ export const topics: Topic[] = [
         en: "The abbreviation DDR stands for \"Deutsche Demokratische Republik\". The DDR (GDR, German Democratic Republic) emerged from the Soviet occupation sector in 1949 and existed until 1990. The DDR included today's 5 federal states of Brandenburg, Mecklenburg-Western Pomerania, Saxony, Saxony-Anhalt, and Thuringia. East Berlin was also part of the DDR.",
       },
       image: {
-        src: "/images/topics/ddr-map.svg",
+        src: "/images/topics/ddr-map.jpeg",
         alt: {
           de: "Karte von Deutschland mit den DDR-Bundesländern",
           en: "Map of Germany showing the GDR states",
         },
         caption: {
-          de: "Die 5 DDR-Bundesländer sind dunkel markiert",
-          en: "The 5 GDR states are shown in dark",
+          de: `Die 5 DDR-Bundesländer sind dunkel markiert.\nQuelle: Kartographie von IEG-MAPS, Institut für Europäische Geschichte, Mainz, A. Kunz, 2005. Überarbeitete Kartographie (WCAG-Konform) von Gabriel Moss, 2021. “Länder der DDR (1949),” German History in Documents and Images, https://germanhistorydocs.org/de/die-besatzungszeit-und-die-entstehung-zweier-staaten-1945-1961/laender-der-ddr-1949 [13.04.2026].`,
+          en: `The 5 GDR states are shown in dark.\nSource: Cartography by IEG-MAPS, Institute for European History, Mainz, A. Kunz, 2005. Revised cartography (WCAG-compliant) by Gabriel Moss, 2021. “States of the GDR (1949),” German History in Documents and Images, https://germanhistorydocs.org/en/occupation-and-the-emergence-of-two-states-1945-1961/states-of-the-gdr-1949 [accessed April 13, 2026].`,
         },
       },
       table: {
