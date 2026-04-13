@@ -47,10 +47,10 @@ export default function QuestionCard({
               className="rounded-xl border border-gray-200 dark:border-gray-600 max-w-full h-auto mx-auto"
             />
           </div>
-          {/* Add Bild 1-4 labels below images for 'Welches Wappen' matching questions */}
+          {/* Show Bild 1-4 labels below images if showImageLabels is true */}
           {question.image &&
-            /Welches Wappen gehört/.test(question.question) &&
-            question.options.length === 4 && (
+            question.options.length === 4 &&
+            question.showImageLabels && (
               <div className="grid grid-cols-4 gap-4 max-w-3xl mx-auto mb-6 mt-2">
                 {[1, 2, 3, 4].map((n) => (
                   <span
