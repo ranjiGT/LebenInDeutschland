@@ -48,12 +48,11 @@ export default function QuestionCard({
             />
           </div>
           {question.options.length === 4 && !question.hideOptionLabels && (
-            <div className="flex justify-between max-w-md mx-auto mb-6">
+            <div className="grid grid-cols-4 gap-4 max-w-3xl mx-auto mb-6 mt-2">
               {[1, 2, 3, 4].map((n) => (
                 <span
                   key={n}
-                  className="text-sm md:text-base font-semibold text-gray-700 dark:text-gray-200"
-                  style={{ minWidth: 0 }}
+                  className="text-base md:text-lg font-bold text-gray-900 dark:text-white text-center w-full"
                 >
                   {`Bild ${n}`}
                 </span>
