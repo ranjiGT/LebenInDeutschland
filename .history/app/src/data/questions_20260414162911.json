@@ -207,8 +207,8 @@
       ],
       "correct": 2,
       "explanation": {
-        "de": "Die Pressefreiheit ist ein im Grundgesetz verankertes Grundrecht (Artikel 5 GG). Sie kann nicht einfach abgeschafft werden, auch nicht durch eine Mehrheit im Bundestag. Grundrechte können nur unter sehr strengen Voraussetzungen geändert werden, und die Pressefreiheit ist besonders geschützt.",
-        "en": "Freedom of the press is a fundamental right enshrined in the Basic Law (Article 5). It cannot simply be abolished, not even by a majority in the Bundestag. Fundamental rights can only be changed under very strict conditions, and freedom of the press is especially protected."
+        "de": "Die Menschenwürde (Artikel 1 GG) ist das wichtigste Grundrecht in Deutschland. Sie ist unantastbar und Grundlage aller weiteren Grundrechte.",
+        "en": "Human dignity (Article 1 of the Basic Law) is the most important fundamental right in Germany. It is inviolable and the foundation of all other fundamental rights."
       }
     },
     {
@@ -482,8 +482,8 @@
       ],
       "correct": 2,
       "explanation": {
-        "de": "Die Abgeordneten zum Deutschen Bundestag werden vom wahlberechtigten Volk gewählt. Alle deutschen Staatsbürgerinnen und Staatsbürger ab 18 Jahren dürfen bei der Bundestagswahl ihre Stimme abgeben.",
-        "en": "The members of the German Bundestag are elected by eligible voters. All German citizens aged 18 and over are entitled to vote in the federal election."
+        "de": "In Deutschland darf man nicht mehr als eine Ehefrau / einen Ehemann gleichzeitig haben. Polygamie ist verboten.",
+        "en": "In Germany, one may not have more than one spouse at the same time. Polygamy is prohibited."
       }
     },
     {
@@ -754,8 +754,8 @@
       ],
       "correct": 1,
       "explanation": {
-        "de": "Die Bundespräsidentin/der Bundespräsident wird in Deutschland nicht direkt vom Volk gewählt. Sie oder er wird von der Bundesversammlung gewählt, die sich aus Mitgliedern des Bundestages und Vertretern der Bundesländer zusammensetzt. Abgeordnete des Bundestages, des Landtages und des EU-Parlaments werden hingegen direkt gewählt.",
-        "en": "The Federal President is not directly elected by the people in Germany. He or she is elected by the Federal Convention, which consists of members of the Bundestag and representatives of the federal states. Members of the Bundestag, state parliaments, and the European Parliament are directly elected by the people."
+        "de": "Jeder hat das Recht, sich vor Gericht zu verteidigen und einen Anwalt zu nehmen, wenn er/sie angeklagt wird.",
+        "en": "Everyone has the right to defend themselves in court and to hire a lawyer when accused."
       }
     },
     {
@@ -890,8 +890,8 @@
       ],
       "correct": 0,
       "explanation": {
-        "de": "Volkssouveränität bedeutet, dass alle Staatsgewalt vom Volk ausgeht. Das Volk ist die höchste Quelle der politischen Macht und entscheidet in einer Demokratie durch Wahlen und Abstimmungen über die Ausübung der Staatsgewalt.",
-        "en": "Popular sovereignty means that all state authority originates from the people. The people are the highest source of political power and, in a democracy, exercise this power through elections and referendums."
+        "de": "Wer in Deutschland nicht arbeiten kann, erhält vom Staat soziale Leistungen wie Arbeitslosengeld oder Sozialhilfe.",
+        "en": "Those unable to work in Germany receive social benefits from the state such as unemployment benefits or social assistance."
       }
     },
     {
@@ -994,8 +994,8 @@
       ],
       "correct": 1,
       "explanation": {
-        "de": "Die Bundesministerinnen und Bundesminister werden vom Bundespräsidenten oder der Bundespräsidentin auf Vorschlag der Bundeskanzlerin oder des Bundeskanzlers ernannt.",
-        "en": "The federal ministers are appointed by the Federal President on the proposal of the Federal Chancellor."
+        "de": "Alle Menschen sind vor dem Gesetz gleich, unabhängig von Geschlecht, Herkunft oder Religion (Artikel 3 GG).",
+        "en": "All people are equal before the law, regardless of gender, origin, or religion (Article 3 of the Basic Law)."
       }
     },
     {
@@ -1028,8 +1028,8 @@
       ],
       "correct": 1,
       "explanation": {
-        "de": "Der Bundestag und der Bundesrat gehören in Deutschland zur Legislative, also zur gesetzgebenden Gewalt. Sie sind gemeinsam für die Verabschiedung von Gesetzen auf Bundesebene verantwortlich. Die Legislative ist neben der Exekutive (ausführende Gewalt) und der Judikative (rechtsprechende Gewalt) eine der drei Staatsgewalten.",
-        "en": "The Bundestag and Bundesrat in Germany are part of the legislative branch, which is responsible for making laws at the federal level. The legislative branch is one of the three branches of government, alongside the executive (enforcing the laws) and the judiciary (interpreting the laws)."
+        "de": "Der Bundestag und der Bundesrat gehören zur Legislative – sie sind für die Gesetzgebung zuständig.",
+        "en": "The Bundestag and Bundesrat belong to the legislative branch – they are responsible for lawmaking."
       }
     },
     {
@@ -1062,8 +1062,8 @@
       ],
       "correct": 1,
       "explanation": {
-        "de": "Die Wahl des Parlaments eines deutschen Bundeslandes nennt man Landtagswahl. Dabei wählen die Bürgerinnen und Bürger die Abgeordneten für den Landtag, das Parlament des jeweiligen Bundeslandes.",
-        "en": "The election of a federal state's parliament in Germany is called a 'Landtagswahl' (state parliament election). In this election, citizens vote for the members of the Landtag, the parliament of the respective federal state."
+        "de": "Die Bundeskanzlerin/der Bundeskanzler leitet die Bundesregierung und bestimmt die Richtlinien der Politik (Richtlinienkompetenz).",
+        "en": "The Federal Chancellor heads the Federal Government and sets policy guidelines (Richtlinienkompetenz)."
       }
     },
     {
@@ -1251,8 +1251,8 @@
       ],
       "correct": 0,
       "explanation": {
-        "de": "Die beiden größten Fraktionen im Deutschen Bundestag sind derzeit die CDU/CSU und die AfD. Die Zusammensetzung der größten Fraktionen kann sich nach jeder Bundestagswahl ändern, je nachdem, wie viele Stimmen die Parteien erhalten.",
-        "en": "The two largest parliamentary groups in the German Bundestag are currently the CDU/CSU and the AfD. The composition of the largest groups can change after each federal election, depending on how many votes the parties receive."
+        "de": "Opposition heißt: Parteien im Parlament, die nicht an der Regierung beteiligt sind. Sie kontrollieren die Regierung und bieten Alternativen.",
+        "en": "Opposition means: parties in parliament that are not part of the government. They monitor the government and offer alternatives."
       }
     },
     {
@@ -1268,8 +1268,8 @@
       ],
       "correct": 2,
       "explanation": {
-        "de": "Das Parlament für ganz Deutschland heißt Deutscher Bundestag. Im Bundestag sitzen die gewählten Abgeordneten, die Gesetze beschließen und die Bundesregierung kontrollieren. Der Bundestag ist das zentrale gesetzgebende Organ auf Bundesebene.",
-        "en": "The parliament for all of Germany is called the German Bundestag. The Bundestag consists of elected representatives who pass laws and oversee the federal government. It is the central legislative body at the federal level."
+        "de": "Die Opposition im Bundestag kontrolliert die Regierung und kritisiert sie öffentlich. Sie ist wichtig für die Demokratie.",
+        "en": "The opposition in the Bundestag monitors and publicly criticizes the government. It is important for democracy."
       }
     },
     {
@@ -1506,8 +1506,8 @@
       ],
       "correct": 0,
       "explanation": {
-        "de": "Die parlamentarische Opposition im Deutschen Bundestag kontrolliert die Regierung, kritisiert deren Politik und bietet politische Alternativen an. Sie ist ein wichtiger Bestandteil der Demokratie, da sie die Regierung überwacht und zur Meinungsvielfalt beiträgt.",
-        "en": "The parliamentary opposition in the German Bundestag monitors the government, criticizes its policies, and offers political alternatives. It is an important part of democracy, as it oversees the government and contributes to a diversity of opinions."
+        "de": "Die Farben der deutschen Flagge sind Schwarz-Rot-Gold. Sie stehen für Einigkeit und Recht und Freiheit.",
+        "en": "The colors of the German flag are black, red, and gold. They stand for unity, justice, and freedom."
       }
     },
     {
@@ -1540,8 +1540,8 @@
       ],
       "correct": 0,
       "explanation": {
-        "de": "Die deutschen Bundesländer wirken an der Gesetzgebung des Bundes durch den Bundesrat mit. Im Bundesrat sind die Landesregierungen vertreten und können bei vielen Gesetzen mitentscheiden oder ein Veto einlegen.",
-        "en": "The German federal states participate in federal legislation through the Bundesrat. The state governments are represented in the Bundesrat and can co-decide or veto many laws."
+        "de": "Der 3. Oktober ist der Tag der Deutschen Einheit – der Nationalfeiertag. An diesem Tag wurde 1990 die Wiedervereinigung vollzogen.",
+        "en": "October 3 is German Unity Day – the national holiday. On this day in 1990, reunification was completed."
       }
     },
     {
@@ -1557,8 +1557,8 @@
       ],
       "correct": 2,
       "explanation": {
-        "de": "Ein Regierungswechsel in einem Bundesland kann die Mehrheitsverhältnisse im Bundesrat verändern. Dadurch kann das Regieren auf Bundesebene schwieriger werden, weil viele Gesetze der Zustimmung des Bundesrates bedürfen und die Bundesregierung auf die Unterstützung der Länder angewiesen ist.",
-        "en": "A change of government in a federal state can alter the majority situation in the Bundesrat. This can make governing at the federal level more difficult, because many laws require the approval of the Bundesrat and the federal government depends on the support of the states."
+        "de": "Deutschland hat 16 Bundesländer, die alle eigene Landesregierungen und Landtage (Länderparlamente) haben.",
+        "en": "Germany has 16 federal states, each with its own state government and state parliament."
       }
     },
     {
@@ -1591,8 +1591,8 @@
       ],
       "correct": 3,
       "explanation": {
-        "de": "Je mehr Zweitstimmen eine Partei bei der Bundestagswahl erhält, desto mehr Sitze bekommt sie im Bundestag. Die Zweitstimme entscheidet über die Stärke der Parteien im Parlament und ist damit maßgeblich für die Zusammensetzung des Bundestages.",
-        "en": "The more second votes (Zweitstimmen) a party receives in the federal election, the more seats it gets in the Bundestag. The second vote determines the strength of the parties in parliament and is decisive for the composition of the Bundestag."
+        "de": "Unter einer Koalition versteht man den Zusammenschluss mehrerer Parteien, um gemeinsam zu regieren.",
+        "en": "A coalition is an alliance of several parties to govern together."
       }
     },
     {
@@ -1608,8 +1608,8 @@
       ],
       "correct": 1,
       "explanation": {
-        "de": "An der Wahl zum Deutschen Bundestag darf man ab 18 Jahren teilnehmen. Das aktive Wahlrecht erhalten alle deutschen Staatsbürgerinnen und Staatsbürger mit Vollendung des 18. Lebensjahres.",
-        "en": "You can participate in the election of the German Bundestag from the age of 18. All German citizens acquire the right to vote (active suffrage) when they reach the age of 18."
+        "de": "Die Fraktionen im Bundestag sind Zusammenschlüsse der Abgeordneten derselben Partei. Eine Fraktion braucht in der Regel mindestens 5% der Sitze.",
+        "en": "Parliamentary groups (Fraktionen) in the Bundestag are associations of members of the same party. A group usually needs at least 5% of seats."
       }
     },
     {
@@ -1761,8 +1761,8 @@
       ],
       "correct": 1,
       "explanation": {
-        "de": "Als 'Ampelkoalition' bezeichnet man in Deutschland eine Regierungskoalition aus SPD (rot), FDP (gelb) und Bündnis 90/Die Grünen (grün). Der Name leitet sich von den traditionellen Farben dieser Parteien ab, die zusammen die Farben einer Verkehrsampel ergeben.",
-        "en": "In Germany, a 'traffic light coalition' (Ampelkoalition) refers to a governing coalition of the SPD (red), FDP (yellow), and Alliance 90/The Greens (green). The name comes from the traditional party colors, which together resemble the colors of a traffic light."
+        "de": "Was wird in Deutschland als \"Ampelkoalition\" bezeichnet? Die Zusammenarbeit von SPD, FDP und Bündnis 90/Die Grünen in einer Regierung.",
+        "en": "The correct answer is: von SPD, FDP und Bündnis 90/Die Grünen in einer Regierung."
       }
     },
     {
@@ -1829,8 +1829,8 @@
       ],
       "correct": 1,
       "explanation": {
-        "de": "Der Deutsche Bundestag wird für eine Legislaturperiode von vier Jahren gewählt. Nach Ablauf dieser Zeit finden normalerweise Neuwahlen statt. In Ausnahmefällen kann der Bundestag auch vorzeitig aufgelöst werden, aber die reguläre Amtszeit beträgt vier Jahre.",
-        "en": "The German Bundestag is elected for a legislative period of four years. After this period, new elections are usually held. In exceptional cases, the Bundestag can be dissolved earlier, but the regular term is four years."
+        "de": "Die richtige Antwort ist: 4 Jahre.",
+        "en": "The correct answer is: 4 Jahre."
       }
     },
     {
@@ -1846,8 +1846,8 @@
       ],
       "correct": 1,
       "explanation": {
-        "de": "Bei einer Bundestagswahl in Deutschland darf jede Bürgerin und jeder Bürger wählen, die bzw. der die deutsche Staatsangehörigkeit besitzt und mindestens 18 Jahre alt ist. Das aktive Wahlrecht gilt unabhängig vom Wohnort in Deutschland oder im Ausland, solange die weiteren gesetzlichen Voraussetzungen erfüllt sind.",
-        "en": "In a federal election in Germany, every citizen who holds German citizenship and is at least 18 years old is allowed to vote. The active right to vote applies regardless of whether the person lives in Germany or abroad, as long as the other legal requirements are met."
+        "de": "Bei einer Bundestagswahl in Deutschland darf jede/jeder wählen, die/der Bürgerin/Bürger der Bundesrepublik Deutschland ist und mindestens 18 Jahre alt ist.",
+        "en": "The correct answer is: Bürgerin/Bürger der Bundesrepublik Deutschland ist und mindestens 18 Jahre alt ist."
       }
     },
     {
@@ -1863,8 +1863,8 @@
       ],
       "correct": 1,
       "explanation": {
-        "de": "Bundestagswahlen finden in Deutschland normalerweise alle vier Jahre statt. Das bedeutet, die Bürgerinnen und Bürger wählen in der Regel alle vier Jahre die Abgeordneten des Deutschen Bundestages neu. In Ausnahmefällen kann es zu vorgezogenen Neuwahlen kommen.",
-        "en": "Federal elections in Germany are normally held every four years. This means that citizens usually elect the members of the German Bundestag every four years. In exceptional cases, early elections may be called."
+        "de": "alle vier Jahre.",
+        "en": "The correct answer is: alle vier Jahre."
       }
     },
     {
@@ -1982,8 +1982,8 @@
       ],
       "correct": 3,
       "explanation": {
-        "de": "Wenn Sie bei einer Bundestagswahl wählen dürfen, besitzen Sie das sogenannte aktive Wahlrecht. Das bedeutet, Sie dürfen Ihre Stimme abgeben und damit an der Wahl teilnehmen. Das passive Wahlrecht bezeichnet dagegen das Recht, selbst gewählt zu werden.",
-        "en": "If you are allowed to vote in a federal election in Germany, you have what is called the active right to vote. This means you are entitled to cast your vote and participate in the election. The passive right to vote, on the other hand, means the right to be elected yourself."
+        "de": "Wenn Sie bei einer Bundestagswahl in Deutschland wählen dürfen, heißt das aktives Wahlrecht.",
+        "en": "The correct answer is: aktives Wahlrecht."
       }
     },
     {
@@ -1999,8 +1999,8 @@
       ],
       "correct": 2,
       "explanation": {
-        "de": "Parteien müssen mindestens 5 % der Zweitstimmen erhalten, um in den Deutschen Bundestag einzuziehen. Diese sogenannte Fünf-Prozent-Hürde soll eine Zersplitterung des Parlaments verhindern und stabile Mehrheiten ermöglichen. Ausnahmen gelten für Parteien, die mindestens drei Direktmandate gewinnen.",
-        "en": "Parties must receive at least 5% of the second votes (Zweitstimmen) to enter the German Bundestag. This so-called five-percent threshold is intended to prevent fragmentation of parliament and ensure stable majorities. Exceptions apply to parties that win at least three direct mandates."
+        "de": "5%.",
+        "en": "The correct answer is: 5%."
       }
     },
     {
@@ -2067,8 +2067,8 @@
       ],
       "correct": 0,
       "explanation": {
-        "de": "Das nennt man 5%-Hürde. Eine Partei muss mindestens 5 % der Zweitstimmen bei der Bundestagswahl erreichen, um in den Bundestag einzuziehen. Diese Regel soll verhindern, dass zu viele kleine Parteien ins Parlament kommen und die Regierungsbildung erschweren.",
-        "en": "This is called the 5% threshold. A party must receive at least 5% of the second votes (Zweitstimmen) in the federal election to enter the Bundestag. This rule is intended to prevent too many small parties from entering parliament and making it harder to form a government."
+        "de": "Eine Partei möchte in den Deutschen Bundestag. Sie muss aber einen Mindestanteil an Wählerstimmen haben. Das heißt 5%-Hürde.",
+        "en": "The correct answer is: 5%-Hürde."
       }
     },
     {
@@ -2101,8 +2101,8 @@
       ],
       "correct": 2,
       "explanation": {
-        "de": "Die '5%-Hürde' bedeutet, dass eine Partei mindestens 5 % der Zweitstimmen bei der Bundestagswahl erhalten muss, um in den Bundestag einzuziehen. Diese Regel soll verhindern, dass zu viele kleine Parteien ins Parlament kommen und dadurch die Regierungsbildung erschwert wird. Parteien, die weniger als 5 % der Stimmen erhalten, bleiben in der Regel unberücksichtigt – es gibt aber Ausnahmen, wenn eine Partei mindestens drei Direktmandate gewinnt.",
-        "en": "The '5% threshold' means that a party must receive at least 5% of the second votes (Zweitstimmen) in the federal election to enter the Bundestag. This rule is intended to prevent too many small parties from entering parliament, which could make forming a government more difficult. Parties that receive less than 5% of the votes are usually not considered—except if a party wins at least three direct mandates."
+        "de": "Mindestanteil an Wählerstimmen, um ins Parlament zu kommen.",
+        "en": "The correct answer is: Mindestanteil an Wählerstimmen, um ins Parlament zu kommen."
       }
     },
     {
@@ -2272,8 +2272,8 @@
       ],
       "correct": 1,
       "explanation": {
-        "de": "Bei Bundestags- und Landtagswahlen in Deutschland ist es erlaubt, per Briefwahl zu wählen. Das bedeutet, Sie können Ihre Stimme auch dann abgeben, wenn Sie am Wahltag nicht persönlich ins Wahllokal gehen können. Die Briefwahl ist eine Alternative zur Urnenwahl und sorgt dafür, dass möglichst viele Wahlberechtigte ihr Wahlrecht ausüben können.",
-        "en": "In federal and state elections in Germany, it is permitted to vote by postal ballot (Briefwahl). This means you can cast your vote even if you are unable to go to the polling station on election day. Postal voting is an alternative to voting in person and ensures that as many eligible voters as possible can exercise their right to vote."
+        "de": "Man kann durch Briefwahl seine Stimme abgeben.",
+        "en": "The correct answer is: Man kann durch Briefwahl seine Stimme abgeben."
       }
     },
     {
