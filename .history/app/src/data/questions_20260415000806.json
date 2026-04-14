@@ -2952,8 +2952,8 @@
       ],
       "correct": 2,
       "explanation": {
-          "de": "Die Bundesrepublik Deutschland ist eines der sechs Gründungsmitglieder der Europäischen Union (damals Europäische Wirtschaftsgemeinschaft, EWG). Gemeinsam mit Belgien, Frankreich, Italien, Luxemburg und den Niederlanden hat Deutschland 1957 die Römischen Verträge unterzeichnet und damit die europäische Integration maßgeblich mitgestaltet.",
-          "en": "The Federal Republic of Germany is one of the six founding members of the European Union (then the European Economic Community, EEC). Together with Belgium, France, Italy, Luxembourg, and the Netherlands, Germany signed the Treaties of Rome in 1957 and played a key role in shaping European integration."
+        "de": "Die Europäische Wirtschaftsgemeinschaft (EWG) wurde 1__(57) durch die Römischen Verträge gegründet – ein wichtiger Schritt zur europäischen Integration.",
+        "en": "The European Economic Community (EEC) was founded in 1957 through the Treaties of Rome – an important step toward European integration."
       }
     },
     {
@@ -3500,8 +3500,8 @@
       ],
       "correct": 0,
       "explanation": {
-          "de": "Mit dem Beitritt der DDR zur Bundesrepublik Deutschland im Jahr 1990 wurden die neuen Bundesländer Teil der Bundesrepublik und damit automatisch auch Teil der Europäischen Union. Seitdem gelten die EU-Regeln und Rechte auch in den neuen Bundesländern.",
-          "en": "With the accession of the GDR to the Federal Republic of Germany in 1990, the new federal states became part of the Federal Republic and thus automatically part of the European Union. Since then, EU rules and rights also apply in the new federal states."
+        "de": "Mit dem Beitritt der DDR zur Bundesrepublik Deutschland gehören die neuen Bundesländer nun auch zur Europäischen Union.",
+        "en": "The correct answer is: zur Europäischen Union."
       }
     },
     {
@@ -3776,8 +3776,8 @@
       ],
       "correct": 0,
       "explanation": {
-        "de": "Das Schengener Abkommen regelt den freien Personenverkehr zwischen den teilnehmenden europäischen Staaten. Für Reisende bedeutet das, dass an den Binnengrenzen dieser Länder in der Regel keine Passkontrollen mehr stattfinden. Dadurch wird das Reisen innerhalb Europas einfacher und schneller. Sicherheitskontrollen können jedoch in Ausnahmefällen vorübergehend wieder eingeführt werden.",
-        "en": "The Schengen Agreement regulates the free movement of people between participating European countries. For travelers, this means that there are generally no passport checks at the internal borders of these countries, making travel within Europe easier and faster. However, border controls can be temporarily reintroduced in exceptional cases for security reasons."
+        "de": "Das Schengener Abkommen ermöglicht Reisen ohne Passkontrolle zwischen den teilnehmenden europäischen Ländern.",
+        "en": "The Schengen Agreement enables travel without passport controls between participating European countries."
       }
     },
     {
@@ -3827,8 +3827,8 @@
       ],
       "correct": 1,
       "explanation": {
-          "de": "EU steht für ‚Europäische Union‘. Die Europäische Union ist ein politischer und wirtschaftlicher Zusammenschluss von derzeit 27 europäischen Staaten (Stand 2026). Ziel der EU ist es, die Zusammenarbeit in Bereichen wie Wirtschaft, Sicherheit, Umweltschutz und Recht zu fördern und den Frieden sowie Wohlstand in Europa zu sichern.",
-          "en": "EU stands for 'European Union.' The European Union is a political and economic union of currently 27 European countries (as of 2026). The EU aims to promote cooperation in areas such as the economy, security, environmental protection, and law, and to ensure peace and prosperity in Europe."
+        "de": "Die Europäische Union (EU) wurde 1__(93) durch den Vertrag von Maastricht gegründet.",
+        "en": "The European Union (EU) was founded in 1993 through the Treaty of Maastricht."
       }
     },
     {
@@ -3931,8 +3931,8 @@
       ],
       "correct": 0,
       "explanation": {
-        "de": "Das Europäische Parlament wird alle 5 Jahre in allgemeinen, freien und geheimen Wahlen von den Bürgerinnen und Bürgern der EU-Mitgliedstaaten direkt gewählt. Die Wahl stärkt die demokratische Legitimation der EU und ermöglicht den Bürgern, Einfluss auf die europäische Politik zu nehmen.",
-        "en": "The European Parliament is elected every 5 years in general, free, and secret elections by the citizens of the EU member states. This election strengthens the democratic legitimacy of the EU and allows citizens to influence European policy."
+        "de": "Die Bürgerinnen und Bürger der EU wählen das Europäische Parlament direkt. Es ist die demokratische Vertretung der EU-Bürger.",
+        "en": "EU citizens directly elect the European Parliament. It is the democratic representation of EU citizens."
       }
     },
     {
@@ -3948,8 +3948,8 @@
       ],
       "correct": 3,
       "explanation": {
-          "de": "Europäische Integration bezeichnet den fortlaufenden Prozess, bei dem europäische Staaten ihre Zusammenarbeit in verschiedenen Bereichen wie Politik, Wirtschaft, Recht und Gesellschaft vertiefen. Ziel ist es, gemeinsame Herausforderungen besser zu bewältigen, Frieden und Wohlstand zu sichern und die Lebensbedingungen in Europa zu verbessern. Die Gründung der Europäischen Union (EU) ist ein zentrales Ergebnis dieses Integrationsprozesses.",
-          "en": "European integration refers to the ongoing process in which European countries deepen their cooperation in areas such as politics, economics, law, and society. The aim is to better address common challenges, secure peace and prosperity, and improve living conditions in Europe. The founding of the European Union (EU) is a key result of this integration process."
+        "de": "Der Begriff meint den Zusammenschluss europäischer Staaten zur EU.",
+        "en": "The correct answer is: Der Begriff meint den Zusammenschluss europäischer Staaten zur EU."
       }
     },
     {
@@ -3999,8 +3999,8 @@
       ],
       "correct": 3,
       "explanation": {
-        "de": "Das Europäische Parlament hat mehrere Sitze. Der offizielle Sitz ist in Straßburg (Frankreich), wo die meisten Plenarsitzungen stattfinden. Weitere Arbeitsorte sind Brüssel (Belgien) für Ausschusssitzungen und Luxemburg für das Sekretariat. Straßburg ist jedoch der symbolische Hauptsitz.",
-        "en": "The European Parliament has several locations. Its official seat is in Strasbourg (France), where most plenary sessions are held. Other working locations are Brussels (Belgium) for committee meetings and Luxembourg for the Secretariat. However, Strasbourg is the symbolic main seat."
+        "de": "Straßburg.",
+        "en": "The correct answer is: Straßburg."
       }
     },
     {
@@ -4035,8 +4035,8 @@
       ],
       "correct": 3,
       "explanation": {
-          "de": "Die Europäische Union (EU) besteht heute aus 27 Mitgliedstaaten (Stand 2026). Die EU begann 1957 mit sechs Ländern und ist durch mehrere Erweiterungen gewachsen. Die Mitgliedstaaten arbeiten in Bereichen wie Wirtschaft, Umweltschutz, Sicherheit und Recht eng zusammen, um gemeinsame Ziele zu erreichen.",
-          "en": "The European Union (EU) currently has 27 member states (as of 2026). The EU started in 1957 with six countries and has grown through several enlargements. The member states cooperate closely in areas such as the economy, environmental protection, security, and law to achieve common goals."
+        "de": "27.",
+        "en": "The correct answer is: 27."
       }
     },
     {
@@ -4052,8 +4052,8 @@
       ],
       "correct": 1,
       "explanation": {
-          "de": "Die Römischen Verträge wurden 1957 unterzeichnet und begründeten die Europäische Wirtschaftsgemeinschaft (EWG) sowie die Europäische Atomgemeinschaft (EURATOM). Sie waren ein wichtiger Schritt zur wirtschaftlichen und politischen Zusammenarbeit in Europa und gelten als Grundstein der heutigen Europäischen Union.",
-          "en": "The Treaties of Rome were signed in 1957 and established the European Economic Community (EEC) and the European Atomic Energy Community (EURATOM). They were an important step towards economic and political cooperation in Europe and are considered the foundation of today's European Union."
+        "de": "Die richtige Antwort ist: Gründung der Europäischen Wirtschaftsgemeinschaft (EWG).",
+        "en": "The correct answer is: Gründung der Europäischen Wirtschaftsgemeinschaft (EWG)."
       }
     },
     {
@@ -4086,8 +4086,8 @@
       ],
       "correct": 1,
       "explanation": {
-        "de": "Die ‚Römischen Verträge‘ wurden 1957 von Deutschland, Frankreich, Italien, Belgien, den Niederlanden und Luxemburg unterzeichnet. Sie begründeten die Europäische Wirtschaftsgemeinschaft (EWG) und legten den Grundstein für die wirtschaftliche Zusammenarbeit in Europa. Ziel war es, einen gemeinsamen Markt zu schaffen und den Frieden sowie Wohlstand in Europa zu fördern.",
-        "en": "The 'Treaties of Rome' were signed in 1957 by Germany, France, Italy, Belgium, the Netherlands, and Luxembourg. They established the European Economic Community (EEC) and laid the foundation for economic cooperation in Europe. The goal was to create a common market and promote peace and prosperity in Europe."
+        "de": "Die richtige Antwort ist: durch die \"Römischen Verträge\".",
+        "en": "The correct answer is: durch die \"Römischen Verträge\"."
       }
     },
     {
