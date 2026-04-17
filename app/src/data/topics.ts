@@ -1123,6 +1123,29 @@ export const topics: Topic[] = [
     },
     illustration: "💬",
     relatedQuestionNumbers: [1, 4, 9, 14, 16, 17, 18, 30, 161, 274, 281],
+    details: {
+      intro: {
+        de: "Artikel 5 des Grundgesetzes sch\u00fctzt die Meinungsfreiheit, Pressefreiheit und Informationsfreiheit. Jeder darf seine Meinung frei \u00e4u\u00dfern \u2013 in Wort, Schrift und Bild. Diese Freiheit ist ein Grundpfeiler der Demokratie in Deutschland.",
+        en: "Article 5 of the Basic Law protects freedom of expression, freedom of the press, and freedom of information. Everyone may freely express their opinion \u2013 in speech, writing, and images. This freedom is a cornerstone of democracy in Germany.",
+      },
+      gallery: [
+        {
+          src: "/images/topics/meinungsfreiheit/demonstration-meinungsfreiheit.jpg",
+          alt: { de: "Demonstration f\u00fcr Meinungsfreiheit in Berlin, 1989", en: "Demonstration for freedom of speech in Berlin, 1989" },
+          caption: { de: "Demonstration f\u00fcr Meinungsfreiheit in Ost-Berlin am 19. November 1989 (Bundesarchiv).", en: "Demonstration for freedom of speech in East Berlin on November 19, 1989 (Federal Archives)." },
+        },
+        {
+          src: "/images/topics/meinungsfreiheit/pressefreiheit-denkmal.jpg",
+          alt: { de: "Denkmal f\u00fcr Pressefreiheit in Frankfurt (Oder)", en: "Press freedom memorial in Frankfurt (Oder)" },
+          caption: { de: "Denkmal zur Erinnerung an die friedliche Revolution 1989 in Frankfurt (Oder).", en: "Memorial commemorating the peaceful revolution of 1989 in Frankfurt (Oder)." },
+        },
+        {
+          src: "/images/topics/meinungsfreiheit/bundestag-plenarsaal.jpg",
+          alt: { de: "Plenarsaal des Deutschen Bundestags", en: "Plenary hall of the German Bundestag" },
+          caption: { de: "Im Plenarsaal des Bundestags wird die freie Rede als demokratisches Grundrecht gelebt.", en: "Free speech is practiced as a fundamental democratic right in the Bundestag plenary hall." },
+        },
+      ],
+    },
   },
   {
     id: "religionsfreiheit",
@@ -1134,6 +1157,29 @@ export const topics: Topic[] = [
     },
     illustration: "🕊️",
     relatedQuestionNumbers: [1, 18, 161],
+    details: {
+      intro: {
+        de: "In Deutschland sch\u00fctzt Artikel 4 des Grundgesetzes die Religionsfreiheit. Jeder Mensch darf seine Religion frei w\u00e4hlen, aus\u00fcben oder auch keiner Religion angeh\u00f6ren. Kirchen, Synagogen und Moscheen stehen als sichtbare Zeichen dieser Vielfalt nebeneinander.",
+        en: "In Germany, Article 4 of the Basic Law protects freedom of religion. Everyone may freely choose and practice their religion, or belong to no religion at all. Churches, synagogues, and mosques stand side by side as visible signs of this diversity.",
+      },
+      gallery: [
+        {
+          src: "/images/topics/religionsfreiheit/koelner-dom.jpg",
+          alt: { de: "K\u00f6lner Dom", en: "Cologne Cathedral" },
+          caption: { de: "Der K\u00f6lner Dom \u2013 eines der bekanntesten Wahrzeichen Deutschlands und Symbol des christlichen Glaubens.", en: "Cologne Cathedral \u2013 one of Germany\u2019s most famous landmarks and a symbol of the Christian faith." },
+        },
+        {
+          src: "/images/topics/religionsfreiheit/neue-synagoge-berlin.jpg",
+          alt: { de: "Neue Synagoge Berlin", en: "New Synagogue Berlin" },
+          caption: { de: "Die Neue Synagoge in der Oranienburger Stra\u00dfe, Berlin \u2013 ein wichtiges Zentrum j\u00fcdischen Lebens in Deutschland.", en: "The New Synagogue on Oranienburger Stra\u00dfe, Berlin \u2013 an important center of Jewish life in Germany." },
+        },
+        {
+          src: "/images/topics/religionsfreiheit/zentralmoschee-koeln.jpg",
+          alt: { de: "DITIB-Zentralmoschee K\u00f6ln", en: "DITIB Central Mosque Cologne" },
+          caption: { de: "Die DITIB-Zentralmoschee in K\u00f6ln \u2013 eine der gr\u00f6\u00dften Moscheen Europas und Ausdruck der Religionsfreiheit.", en: "The DITIB Central Mosque in Cologne \u2013 one of Europe\u2019s largest mosques and an expression of religious freedom." },
+        },
+      ],
+    },
   },
   {
     id: "pressefreiheit",
@@ -1145,6 +1191,29 @@ export const topics: Topic[] = [
     },
     illustration: "📰",
     relatedQuestionNumbers: [12, 30, 32, 46, 105, 145, 159, 170],
+    details: {
+      intro: {
+        de: "Die Pressefreiheit ist in Artikel 5 des Grundgesetzes verankert. Sie garantiert, dass Medien frei und ohne staatliche Zensur berichten k\u00f6nnen. Zeitungen, Rundfunk und Fernsehen d\u00fcrfen eigenst\u00e4ndig recherchieren und ver\u00f6ffentlichen \u2013 eine zentrale S\u00e4ule der Demokratie.",
+        en: "Freedom of the press is enshrined in Article 5 of the Basic Law. It guarantees that media can report freely without state censorship. Newspapers, radio, and television may independently research and publish \u2013 a central pillar of democracy.",
+      },
+      gallery: [
+        {
+          src: "/images/topics/pressefreiheit/bundespressekonferenz.jpg",
+          alt: { de: "Haus der Bundespressekonferenz in Berlin", en: "Federal Press Conference building in Berlin" },
+          caption: { de: "Das Haus der Bundespressekonferenz in Berlin \u2013 hier informieren Regierung und Politiker die Medien.", en: "The Federal Press Conference building in Berlin \u2013 where government and politicians brief the media." },
+        },
+        {
+          src: "/images/topics/pressefreiheit/fernsehturm-berlin.jpg",
+          alt: { de: "Berliner Fernsehturm am Alexanderplatz", en: "Berlin TV Tower at Alexanderplatz" },
+          caption: { de: "Der Berliner Fernsehturm am Alexanderplatz \u2013 Symbol f\u00fcr Rundfunk und Medienfreiheit in Deutschland.", en: "The Berlin TV Tower at Alexanderplatz \u2013 a symbol of broadcasting and media freedom in Germany." },
+        },
+        {
+          src: "/images/topics/pressefreiheit/axel-springer-verlag.jpg",
+          alt: { de: "Axel-Springer-Hochhaus in Berlin", en: "Axel Springer building in Berlin" },
+          caption: { de: "Das Axel-Springer-Hochhaus in Berlin-Kreuzberg \u2013 Sitz eines der gr\u00f6\u00dften deutschen Medienunternehmen.", en: "The Axel Springer building in Berlin-Kreuzberg \u2013 headquarters of one of Germany\u2019s largest media companies." },
+        },
+      ],
+    },
   },
   {
     id: "versammlungsfreiheit",
@@ -1156,6 +1225,29 @@ export const topics: Topic[] = [
     },
     illustration: "✊",
     relatedQuestionNumbers: [17, 41, 166, 243, 281],
+    details: {
+      intro: {
+        de: "Die Versammlungsfreiheit ist in Artikel 8 des Grundgesetzes verankert. Alle Deutschen haben das Recht, sich friedlich und ohne Waffen zu versammeln. F\u00fcr Versammlungen unter freiem Himmel kann eine Anmeldepflicht bestehen, aber keine Genehmigungspflicht.",
+        en: "Freedom of assembly is enshrined in Article 8 of the Basic Law. All Germans have the right to assemble peacefully and without weapons. Outdoor assemblies may require prior notification, but not approval.",
+      },
+      gallery: [
+        {
+          src: "/images/topics/versammlungsfreiheit/fridaysforfuture-berlin.jpg",
+          alt: { de: "FridaysForFuture-Demonstration in Berlin", en: "FridaysForFuture demonstration in Berlin" },
+          caption: { de: "FridaysForFuture-Demonstration in Berlin 2019 \u2013 friedliche Versammlungen sind ein Grundrecht.", en: "FridaysForFuture demonstration in Berlin 2019 \u2013 peaceful assemblies are a fundamental right." },
+        },
+        {
+          src: "/images/topics/versammlungsfreiheit/klimastreik-buehne.jpg",
+          alt: { de: "Globaler Klimastreik in Berlin, Blick von der B\u00fchne", en: "Global Climate Strike in Berlin, view from stage" },
+          caption: { de: "Globaler Klimastreik in Berlin \u2013 Tausende Menschen versammeln sich friedlich f\u00fcr den Klimaschutz.", en: "Global Climate Strike in Berlin \u2013 thousands gather peacefully for climate protection." },
+        },
+        {
+          src: "/images/topics/versammlungsfreiheit/protest-brandenburger-tor.jpg",
+          alt: { de: "Protest am Brandenburger Tor in Berlin", en: "Protest at the Brandenburg Gate in Berlin" },
+          caption: { de: "Kundgebung am Brandenburger Tor \u2013 ein historischer Ort f\u00fcr Versammlungen und Demonstrationen.", en: "Rally at the Brandenburg Gate \u2013 a historic site for assemblies and demonstrations." },
+        },
+      ],
+    },
   },
   {
     id: "gleichberechtigung",
@@ -1167,6 +1259,29 @@ export const topics: Topic[] = [
     },
     illustration: "⚖️",
     relatedQuestionNumbers: [277, 278, 289],
+    details: {
+      intro: {
+        de: "Artikel 3 des Grundgesetzes garantiert die Gleichberechtigung aller Menschen. M\u00e4nner und Frauen sind gleichberechtigt, und niemand darf wegen Geschlecht, Herkunft, Rasse, Sprache, Heimat, Glauben oder Behinderung benachteiligt werden.",
+        en: "Article 3 of the Basic Law guarantees equal rights for all people. Men and women have equal rights, and no one may be disadvantaged because of gender, origin, race, language, homeland, faith, or disability.",
+      },
+      gallery: [
+        {
+          src: "/images/topics/gleichberechtigung/frauentag-historisch.jpg",
+          alt: { de: "Internationaler Frauentag in Berlin \u2013 historische Aufnahme", en: "International Women\u2019s Day in Berlin \u2013 historical photo" },
+          caption: { de: "Festveranstaltung zum Internationalen Frauentag in Berlin \u2013 der Kampf f\u00fcr Gleichberechtigung hat eine lange Geschichte.", en: "International Women\u2019s Day celebration in Berlin \u2013 the fight for equal rights has a long history." },
+        },
+        {
+          src: "/images/topics/gleichberechtigung/frauenkampftag-2021.jpg",
+          alt: { de: "Frauenkampftag 2021 in Berlin", en: "Women\u2019s Day march 2021 in Berlin" },
+          caption: { de: "Demonstration zum Internationalen Frauenkampftag 2021 in Berlin \u2013 Gleichberechtigung bleibt ein aktuelles Thema.", en: "International Women\u2019s Day demonstration 2021 in Berlin \u2013 equal rights remain a current issue." },
+        },
+        {
+          src: "/images/topics/gleichberechtigung/frauenkampftag-demo.jpg",
+          alt: { de: "Demonstration f\u00fcr Frauenrechte in Berlin", en: "Demonstration for women\u2019s rights in Berlin" },
+          caption: { de: "Menschen demonstrieren f\u00fcr Frauenrechte und Gleichstellung in Berlin \u2013 Artikel 3 GG sch\u00fctzt vor Diskriminierung.", en: "People demonstrate for women\u2019s rights and equality in Berlin \u2013 Article 3 of the Basic Law protects against discrimination." },
+        },
+      ],
+    },
   },
   {
     id: "menschenwuerde",
@@ -1178,6 +1293,29 @@ export const topics: Topic[] = [
     },
     illustration: "🌟",
     relatedQuestionNumbers: [8, 9, 18, 170],
+    details: {
+      intro: {
+        de: "\u201EDie W\u00fcrde des Menschen ist unantastbar.\u201C Artikel 1 des Grundgesetzes stellt den Schutz der Menschenw\u00fcrde an die Spitze aller Grundrechte. Daraus leiten sich alle weiteren Rechte ab \u2013 niemand darf erniedrigt, gefoltert oder unmenschlich behandelt werden.",
+        en: "\u201CHuman dignity shall be inviolable.\u201D Article 1 of the Basic Law places the protection of human dignity at the top of all fundamental rights. All other rights derive from it \u2013 no one may be humiliated, tortured, or treated inhumanely.",
+      },
+      gallery: [
+        {
+          src: "/images/topics/menschenwuerde/dem-deutschen-volke.jpg",
+          alt: { de: "Inschrift \u201EDem Deutschen Volke\u201C am Reichstag in Berlin", en: "Inscription \u201CTo the German People\u201D on the Reichstag in Berlin" },
+          caption: { de: "Die Inschrift \u201EDem Deutschen Volke\u201C am Reichstag \u2013 Symbol f\u00fcr die Verpflichtung des Staates gegen\u00fcber seinen B\u00fcrgern.", en: "The inscription \u201CTo the German People\u201D on the Reichstag \u2013 a symbol of the state\u2019s obligation to its citizens." },
+        },
+        {
+          src: "/images/topics/menschenwuerde/stolpersteine-berlin.jpg",
+          alt: { de: "Stolpersteine in Berlin", en: "Stolpersteine (stumbling stones) in Berlin" },
+          caption: { de: "Stolpersteine in Berlin erinnern an Opfer des Nationalsozialismus \u2013 ein Mahnmal f\u00fcr die Unantastbarkeit der Menschenw\u00fcrde.", en: "Stolpersteine in Berlin commemorate victims of National Socialism \u2013 a memorial for the inviolability of human dignity." },
+        },
+        {
+          src: "/images/topics/menschenwuerde/holocaust-denkmal.jpg",
+          alt: { de: "Denkmal f\u00fcr die ermordeten Juden Europas in Berlin", en: "Memorial to the Murdered Jews of Europe in Berlin" },
+          caption: { de: "Das Denkmal f\u00fcr die ermordeten Juden Europas in Berlin \u2013 Mahnung, die W\u00fcrde jedes Menschen zu sch\u00fctzen.", en: "The Memorial to the Murdered Jews of Europe in Berlin \u2013 a reminder to protect the dignity of every person." },
+        },
+      ],
+    },
   },
 
   // === Politik ===
@@ -1820,33 +1958,6 @@ export const topics: Topic[] = [
         de: "Viele Fragen im Einb\u00fcrgerungstest beziehen sich auf wichtige Jahreszahlen der deutschen Geschichte. Hier sind alle pr\u00fcfungsrelevanten Daten auf einen Blick.",
         en: "Many questions in the citizenship test refer to important dates in German history. Here are all exam-relevant dates at a glance.",
       },
-      gallery: [
-        {
-          src: "/images/topics/wichtige-jahreszahlen/zeitstrahl.svg",
-          alt: { de: "Zeitstrahl: Deutsche Geschichte 1933\u20132002", en: "Timeline: German History 1933\u20132002" },
-          caption: { de: "Die wichtigsten Jahreszahlen f\u00fcr den Einb\u00fcrgerungstest im \u00dcberblick", en: "The most important dates for the citizenship test at a glance" },
-        },
-        {
-          src: "/images/topics/wichtige-jahreszahlen/berliner-luftbruecke.jpg",
-          alt: { de: "Berliner Luftbr\u00fccke 1948/49", en: "Berlin Airlift 1948/49" },
-          caption: { de: "C-54 Transportflugzeug landet am Flughafen Tempelhof w\u00e4hrend der Berliner Luftbr\u00fccke (1948)", en: "C-54 transport plane landing at Tempelhof Airport during the Berlin Airlift (1948)" },
-        },
-        {
-          src: "/images/topics/wichtige-jahreszahlen/kniefall-denkmal.jpg",
-          alt: { de: "Kniefall-Denkmal in Warschau", en: "Kniefall Memorial in Warsaw" },
-          caption: { de: "Denkmal f\u00fcr Willy Brandts Kniefall in Warschau (7. Dezember 1970) \u2013 Symbol der Vers\u00f6hnung", en: "Memorial for Willy Brandt\u2019s genuflection in Warsaw (December 7, 1970) \u2013 symbol of reconciliation" },
-        },
-        {
-          src: "/images/topics/wichtige-jahreszahlen/mauerfall.jpg",
-          alt: { de: "Berliner Mauer am Brandenburger Tor", en: "Berlin Wall at Brandenburg Gate" },
-          caption: { de: "Die Berliner Mauer vor dem Brandenburger Tor \u2013 sie fiel am 9. November 1989", en: "The Berlin Wall in front of the Brandenburg Gate \u2013 it fell on November 9, 1989" },
-        },
-        {
-          src: "/images/topics/wichtige-jahreszahlen/euro.jpg",
-          alt: { de: "Euro-M\u00fcnzen und -Scheine", en: "Euro Coins and Banknotes" },
-          caption: { de: "Der Euro wurde 2002 als Bargeld in Deutschland eingef\u00fchrt", en: "The Euro was introduced as cash currency in Germany in 2002" },
-        },
-      ],
       table: {
         title: { de: "Chronologische \u00dcbersicht", en: "Chronological Overview" },
         rows: [
