@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" fill="none">
+  <!-- Background -->
+  <rect width="400" height="300" rx="16" fill="#EFF6FF"/>
+  <!-- Hemicycle shape -->
+  <path d="M50 250 Q50 100, 200 70 Q350 100, 350 250 Z" fill="#DBEAFE" stroke="#2563EB" stroke-width="2"/>
+  <!-- Rows of seats - back row -->
+  <circle cx="100" cy="220" r="8" fill="#DC2626"/>
+  <circle cx="125" cy="210" r="8" fill="#DC2626"/>
+  <circle cx="150" cy="202" r="8" fill="#DC2626"/>
+  <circle cx="175" cy="198" r="8" fill="#1E40AF"/>
+  <circle cx="200" cy="196" r="8" fill="#1E40AF"/>
+  <circle cx="225" cy="198" r="8" fill="#1E40AF"/>
+  <circle cx="250" cy="202" r="8" fill="#F59E0B"/>
+  <circle cx="275" cy="210" r="8" fill="#F59E0B"/>
+  <circle cx="300" cy="220" r="8" fill="#16A34A"/>
+  <!-- Middle row -->
+  <circle cx="120" cy="180" r="8" fill="#DC2626"/>
+  <circle cx="148" cy="170" r="8" fill="#DC2626"/>
+  <circle cx="176" cy="164" r="8" fill="#1E40AF"/>
+  <circle cx="200" cy="162" r="8" fill="#1E40AF"/>
+  <circle cx="224" cy="164" r="8" fill="#1E40AF"/>
+  <circle cx="252" cy="170" r="8" fill="#F59E0B"/>
+  <circle cx="280" cy="180" r="8" fill="#16A34A"/>
+  <!-- Front row -->
+  <circle cx="145" cy="140" r="8" fill="#DC2626"/>
+  <circle cx="175" cy="132" r="8" fill="#1E40AF"/>
+  <circle cx="200" cy="130" r="8" fill="#1E40AF"/>
+  <circle cx="225" cy="132" r="8" fill="#F59E0B"/>
+  <circle cx="255" cy="140" r="8" fill="#16A34A"/>
+  <!-- Podium -->
+  <rect x="175" y="90" width="50" height="25" rx="4" fill="#1E3A5F"/>
+  <rect x="190" y="80" width="20" height="12" rx="2" fill="#F59E0B"/>
+  <!-- Eagle emblem hint -->
+  <circle cx="200" cy="55" r="12" fill="#1E40AF" opacity="0.2"/>
+  <text x="200" y="60" text-anchor="middle" font-size="14">🦅</text>
+  <!-- Label -->
+  <text x="200" y="280" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1E40AF">Bundestag – Plenarsaal</text>
+</svg>

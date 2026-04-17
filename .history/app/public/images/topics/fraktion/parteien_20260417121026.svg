@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" fill="none">
+  <!-- Background -->
+  <rect width="400" height="300" rx="16" fill="#F0FDF4"/>
+  <!-- Title area -->
+  <text x="200" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#166534">Fraktionen im Bundestag</text>
+  <!-- Group 1 - CDU/CSU (blue) -->
+  <rect x="20" y="50" width="170" height="90" rx="12" fill="#DBEAFE" stroke="#2563EB" stroke-width="2"/>
+  <circle cx="55" cy="82" r="12" fill="#2563EB"/>
+  <circle cx="85" cy="82" r="12" fill="#2563EB"/>
+  <circle cx="115" cy="82" r="12" fill="#2563EB"/>
+  <circle cx="145" cy="82" r="12" fill="#2563EB"/>
+  <circle cx="70" cy="110" r="12" fill="#2563EB"/>
+  <circle cx="100" cy="110" r="12" fill="#2563EB"/>
+  <circle cx="130" cy="110" r="12" fill="#2563EB"/>
+  <text x="105" y="135" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#1E40AF">CDU/CSU</text>
+  <!-- Group 2 - SPD (red) -->
+  <rect x="210" y="50" width="170" height="90" rx="12" fill="#FEE2E2" stroke="#DC2626" stroke-width="2"/>
+  <circle cx="245" cy="82" r="12" fill="#DC2626"/>
+  <circle cx="275" cy="82" r="12" fill="#DC2626"/>
+  <circle cx="305" cy="82" r="12" fill="#DC2626"/>
+  <circle cx="335" cy="82" r="12" fill="#DC2626"/>
+  <circle cx="260" cy="110" r="12" fill="#DC2626"/>
+  <circle cx="290" cy="110" r="12" fill="#DC2626"/>
+  <circle cx="320" cy="110" r="12" fill="#DC2626"/>
+  <text x="295" y="135" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#991B1B">SPD</text>
+  <!-- Group 3 - Grüne (green) -->
+  <rect x="20" y="160" width="110" height="80" rx="12" fill="#DCFCE7" stroke="#16A34A" stroke-width="2"/>
+  <circle cx="50" cy="192" r="12" fill="#16A34A"/>
+  <circle cx="80" cy="192" r="12" fill="#16A34A"/>
+  <circle cx="100" cy="192" r="12" fill="#16A34A"/>
+  <circle cx="65" cy="216" r="12" fill="#16A34A"/>
+  <text x="75" y="237" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#166534">Grüne</text>
+  <!-- Group 4 - FDP (yellow) -->
+  <rect x="145" y="160" width="110" height="80" rx="12" fill="#FEF9C3" stroke="#CA8A04" stroke-width="2"/>
+  <circle cx="175" cy="192" r="12" fill="#EAB308"/>
+  <circle cx="205" cy="192" r="12" fill="#EAB308"/>
+  <circle cx="225" cy="192" r="12" fill="#EAB308"/>
+  <text x="200" y="237" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#92400E">FDP</text>
+  <!-- Group 5 - Linke (purple) -->
+  <rect x="270" y="160" width="110" height="80" rx="12" fill="#F3E8FF" stroke="#9333EA" stroke-width="2"/>
+  <circle cx="300" cy="192" r="12" fill="#9333EA"/>
+  <circle cx="330" cy="192" r="12" fill="#9333EA"/>
+  <circle cx="350" cy="192" r="12" fill="#9333EA"/>
+  <text x="325" y="237" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#7E22CE">BSW/Linke</text>
+  <!-- Arrow showing grouping -->
+  <text x="200" y="275" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#374151">Abgeordnete → Fraktion</text>
+</svg>

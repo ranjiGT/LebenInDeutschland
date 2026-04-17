@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" fill="none">
+  <!-- Background -->
+  <rect width="400" height="300" rx="16" fill="#F5F3FF"/>
+  <!-- Committee table (oval) -->
+  <ellipse cx="200" cy="150" rx="140" ry="70" fill="#DDD6FE" stroke="#7C3AED" stroke-width="2"/>
+  <ellipse cx="200" cy="150" rx="110" ry="50" fill="#F5F3FF"/>
+  <!-- Documents on table -->
+  <rect x="170" y="130" width="25" height="32" rx="2" fill="white" stroke="#9CA3AF" stroke-width="1"/>
+  <line x1="175" y1="138" x2="190" y2="138" stroke="#D1D5DB" stroke-width="1"/>
+  <line x1="175" y1="143" x2="190" y2="143" stroke="#D1D5DB" stroke-width="1"/>
+  <line x1="175" y1="148" x2="188" y2="148" stroke="#D1D5DB" stroke-width="1"/>
+  <rect x="200" y="128" width="25" height="32" rx="2" fill="white" stroke="#9CA3AF" stroke-width="1" transform="rotate(10, 212, 144)"/>
+  <!-- People sitting around table -->
+  <!-- Top side -->
+  <circle cx="155" cy="72" r="12" fill="#2563EB"/>
+  <rect x="148" y="84" width="14" height="10" rx="3" fill="#1E40AF"/>
+  <circle cx="200" cy="65" r="12" fill="#2563EB"/>
+  <rect x="193" y="77" width="14" height="10" rx="3" fill="#1E40AF"/>
+  <circle cx="245" cy="72" r="12" fill="#DC2626"/>
+  <rect x="238" y="84" width="14" height="10" rx="3" fill="#991B1B"/>
+  <!-- Bottom side -->
+  <circle cx="145" cy="228" r="12" fill="#DC2626"/>
+  <rect x="138" y="210" width="14" height="10" rx="3" fill="#991B1B"/>
+  <circle cx="200" cy="235" r="12" fill="#16A34A"/>
+  <rect x="193" y="217" width="14" height="10" rx="3" fill="#15803D"/>
+  <circle cx="255" cy="228" r="12" fill="#EAB308"/>
+  <rect x="248" y="210" width="14" height="10" rx="3" fill="#CA8A04"/>
+  <!-- Left side -->
+  <circle cx="65" cy="130" r="12" fill="#16A34A"/>
+  <rect x="77" y="123" width="10" height="14" rx="3" fill="#15803D"/>
+  <circle cx="60" cy="170" r="12" fill="#9333EA"/>
+  <rect x="72" y="163" width="10" height="14" rx="3" fill="#7E22CE"/>
+  <!-- Right side -->
+  <circle cx="335" cy="130" r="12" fill="#EAB308"/>
+  <rect x="317" y="123" width="10" height="14" rx="3" fill="#CA8A04"/>
+  <circle cx="340" cy="170" r="12" fill="#2563EB"/>
+  <rect x="322" y="163" width="10" height="14" rx="3" fill="#1E40AF"/>
+  <!-- Speech bubbles -->
+  <rect x="260" y="40" width="60" height="25" rx="6" fill="white" stroke="#7C3AED" stroke-width="1.5"/>
+  <text x="290" y="57" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#7C3AED">§ Antrag</text>
+  <polygon points="280,65 285,65 278,72" fill="white" stroke="#7C3AED" stroke-width="1.5"/>
+  <!-- Label -->
+  <text x="200" y="280" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#5B21B6">Ausschussarbeit im Bundestag</text>
+</svg>
